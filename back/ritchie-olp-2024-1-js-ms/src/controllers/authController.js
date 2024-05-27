@@ -24,7 +24,8 @@ exports.register = async (req, res) => {
       return res.status(404).json({ message: 'Error al crear el usuario' });
     }
 
-    auditTrail.usuarioCreado(new Date(), email, username, email);
+    
+    auditTrail.userCreated(new Date(), email, username, email);
     console.log("Registro de usuario creado en el audit trail completo");
 
 
@@ -57,7 +58,7 @@ exports.login = async (req, res) => {
     const token = jwt.sign({ id: user.id }, process.env.JWT_SECRET, {
       expiresIn: '24h',
     });
-    auditTrail.registrarInicioSesion(new Date(), email);
+    auditTrail.logIn(new Date(), email);
     res.json({ token, user: { id: user.id, username: user.username, email: user.email } });
   } catch (err) {
     console.error('Error en login:', err);
