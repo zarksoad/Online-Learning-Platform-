@@ -1,0 +1,71 @@
+
+#home {
+  margin: 15px;
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+}
+
+.table table {
+  background-color: var(--info-color);
+  border-radius: 5px;
+}
+
+.table th {
+  padding: 15px;
+  border-radius: 25px;
+  transition: all 0.3s ease 0s;
+  width: 15vw;
+}
+
+.table th:hover {
+  box-shadow: 0 0 15px #d0d0df;
+  /* background-color: #7464ff; */
+  transition: all 0.3s ease 0s;
+}
+
+.table a {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+.table a:hover {
+  color: #d0d0df;
+  text-shadow: 0 0 5px #d0d0df;
+  transition: all 0.3s ease 0s;
+}
+.table td {
+  background-color: #fff;
+  text-align: center;
+}
+
+.filter-form{
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color: var(--dark-color);
+  color: #fff;
+  text-shadow: 2px 2px 2px #000;
+}
+
+.btn {
+   background-color: var(--success-color);
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+
+.btn:hover {
+  background-color: var(--success-color-hover);
+}
+
+

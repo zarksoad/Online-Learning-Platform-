@@ -1,0 +1,269 @@
+[
+    {
+        "fecha": "2024-05-21T06:39:22.316Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-21T06:53:44.344Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-21T06:56:21.034Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-21T21:38:32.673Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-21T22:19:22.263Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-21T22:19:23.185Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-21T22:19:23.645Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-21T22:19:24.256Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-21T22:19:25.268Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-21T22:19:26.574Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-22T11:10:37.699Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-22T15:25:14.015Z",
+        "email": "erick@giraldo.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-22T19:29:41.682Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-22T19:31:56.461Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-22T19:38:52.362Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-22T19:45:57.790Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-22T19:51:23.610Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-22T20:22:46.290Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-22T20:23:04.616Z",
+        "email": "erick@giraldo.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-23T12:15:25.013Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-26T13:12:48.048Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-26T13:12:48.048Z",
+        "email": "johndoe@example.com",
+        "tipo": "Cualquier cosa",
+        "prueba": "Cualquier cosa"
+    },
+    {
+        "fecha": "2024-05-26T13:41:56.828Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-26T13:43:25.653Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-26T13:44:22.551Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-26T14:03:08.334Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-26T14:08:34.072Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-26T14:11:30.831Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-26T14:22:13.158Z",
+        "email": "pedro@correo.co",
+        "tipo": "UsuarioCreado",
+        "newUser": "pedro",
+        "newEmail": "pedro@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T14:41:03.122Z",
+        "email": "sebastian@correo.co",
+        "tipo": "UsuarioCreado",
+        "newUser": "sebastian",
+        "newEmail": "sebastian@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T15:05:53.783Z",
+        "email": "emi@correo.co",
+        "tipo": "UsuarioCreado",
+        "newUser": "emi",
+        "newEmail": "emi@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T15:33:11.591Z",
+        "email": "jaramillo@correo.co",
+        "tipo": "UsuarioCreado",
+        "newUser": "jaramillo",
+        "newEmail": "jaramillo@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T15:35:52.709Z",
+        "email": "pruebaA@correo.co",
+        "tipo": "UsuarioCreado",
+        "newUser": "pruebaA",
+        "newEmail": "pruebaA@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T15:45:11.787Z",
+        "email": "ID@correo.co",
+        "tipo": "UsuarioCreado",
+        "newUser": "pruebaID",
+        "newEmail": "ID@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T15:46:06.067Z",
+        "email": "prueba5@correo.co",
+        "tipo": "UsuarioCreado",
+        "newUser": "prueba5",
+        "newEmail": "prueba5@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T15:49:34.476Z",
+        "email": "pruebas9@correo.co",
+        "tipo": "UsuarioCreado",
+        "newUser": "pruebas9",
+        "newEmail": "pruebas9@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T15:50:47.624Z",
+        "email": 1,
+        "tipo": "UsuarioCreado",
+        "newUser": "pruebas10",
+        "newEmail": "pruebas10@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T16:06:54.546Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-26T16:22:31.206Z",
+        "email": "johndoe@example.com",
+        "tipo": "login"
+    },
+    {
+        "fecha": "2024-05-26T16:23:44.529Z",
+        "email": 1,
+        "tipo": "UsuarioCreado",
+        "newUser": "draco",
+        "newEmail": "draco@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T16:25:00.293Z",
+        "email": 1,
+        "tipo": "UsuarioCreado",
+        "newUser": "lucifer",
+        "newEmail": "lucifer@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T16:26:18.841Z",
+        "email": {
+            "id": 1,
+            "username": "johndoe",
+            "email": "johndoe@example.com",
+            "password": "$2a$10$y6a.ngs8JfCG4z0jslxFJuLnb7uOt/jmZ4SeZyQffLux8bg16ayxW",
+            "created_at": "2024-05-08T23:02:00.546Z",
+            "updated_at": "2024-05-08T23:02:00.546Z",
+            "id_role": null,
+            "points": null
+        },
+        "tipo": "UsuarioCreado",
+        "newUser": "oliverr",
+        "newEmail": "oliverr@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T16:27:34.686Z",
+        "email": {
+            "id": 1,
+            "username": "johndoe",
+            "email": "johndoe@example.com",
+            "password": "$2a$10$y6a.ngs8JfCG4z0jslxFJuLnb7uOt/jmZ4SeZyQffLux8bg16ayxW",
+            "created_at": "2024-05-08T23:02:00.546Z",
+            "updated_at": "2024-05-08T23:02:00.546Z",
+            "id_role": null,
+            "points": null
+        },
+        "tipo": "UsuarioCreado",
+        "newUser": "huesos",
+        "newEmail": "huesos@correo.co"
+    },
+    {
+        "fecha": "2024-05-26T16:28:37.614Z",
+        "email": "johndoe",
+        "tipo": "UsuarioCreado",
+        "newUser": "pruebaX",
+        "newEmail": "pruebaX@correo.co"
+    }
+]
